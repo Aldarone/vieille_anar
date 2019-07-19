@@ -238,7 +238,7 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 
 [[package]]
 name = "vieille_anar"
-version = "0.1.0"
+version = "1.0.0"
 dependencies = [
  "directories 2.0.1 (registry+https://github.com/rust-lang/crates.io-index)",
  "tini 0.2.0 (registry+https://github.com/rust-lang/crates.io-index)",

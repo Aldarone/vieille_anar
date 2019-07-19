@@ -1,6 +1,6 @@
 [package]
 name = "vieille_anar"
-version = "0.1.0"
+version = "1.0.0"
 authors = ["Louise de Beaufort <louise@leetchee.fr>"]
 edition = "2018"
 
